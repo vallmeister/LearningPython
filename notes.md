@@ -1,0 +1,12 @@
+- Python Interpreter
+- Lazy Evaluation
+- While-Else
+- for in range
+- Datastreams text vs binary
+- Datenmodi
+- del-command
+- decimal for arbitrarily precise numbers
+- Integers and Strings are immutable
+- Integers have no cap
+- Order of operations
+- Codes for different numbersystems: 0o octal, 0b binary, 0x heaxadecimal
